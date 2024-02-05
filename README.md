@@ -7,6 +7,7 @@ datetime
 libusb
 python-usbtmc
 pyusb
+pyserial
 
 serial_interface.py needs to be added to ~/python/python312/lib/
 
