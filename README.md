@@ -8,5 +8,7 @@ libusb
 python-usbtmc
 pyusb
 
+serial_interface.py needs to be added to ~/python/python312/lib/
+
 To connect with the RIGOL function generators via python-usbtmc, it may be necessary to run the below tool to ensure the proper drivers for usbtmc are running.
 https://sourceforge.net/projects/libusb-win32/files/libusb-win32-snapshots/20211113/libusb-win32-devel-filter-1.2.7.3.exe/download
