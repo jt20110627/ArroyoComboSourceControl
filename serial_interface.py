@@ -1,4 +1,4 @@
- -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 
 UPDATE: Original creator below. I have modified and added several functions for laser control in addition to the original TEC control functions.
